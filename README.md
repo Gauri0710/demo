@@ -1,4 +1,5 @@
 # demo
 This is my first git repository.
 <br>
-author-Gauri Panwar
+author-Gauri (apnacollege)
+
